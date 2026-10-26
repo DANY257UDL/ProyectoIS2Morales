@@ -1,5 +1,5 @@
 # Practica 2 segundo parcial IS Morales
-![Logo](https://iconscout.com/icons/readme)
+![Logo](https://cdn.iconscout.com/icon/free/png-512/free-readme-logo-icon-svg-download-png-3030236.png?f=webp&w=512)
 ## Ejercicio de GitHub
 
 ### Ingenieria de software Morales UDL
